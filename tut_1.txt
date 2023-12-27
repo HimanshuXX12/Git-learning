@@ -2,7 +2,11 @@ Hello World kaise hao
 
 Hello this is after first commit 
 
+<<<<<<< HEAD
 
 This is after second commit
 
 this is main branch commit not visible to dev branch
+=======
+this is dev branch commit not visible to main branch
+>>>>>>> himanshu
